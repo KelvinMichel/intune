@@ -1,4 +1,4 @@
-#Ajuste as seguintes linhas 15 (Coloque uma URL com uma imagem publica para servir de logo da sua empresa) e 22(ajuste o nome do botão da janela)
+#Ajuste as seguintes linhas 15 (Coloque uma URL com uma imagem publica para servir de logo da sua empresa) e 22(ajuste o nome do botão da janela).
 
 # Define o XAML para a janela do WPF
 [xml]$xaml = @"
